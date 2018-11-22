@@ -1,5 +1,5 @@
 # test
 
-test repo
+test repository
 
 adding some data
